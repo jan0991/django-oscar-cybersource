@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="c64967df-3aeb-4779-83c1-3dc14003f869">
+      <database-info product="PostgreSQL" version="9.6.3" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>myprojectuser</user-name>
+      <introspection-schemas>przelewy:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
